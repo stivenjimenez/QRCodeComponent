@@ -1,16 +1,22 @@
-# QRCode Component  ![Status badge](https://img.shields.io/badge/status-Finished-green)
- ⚡️ Este proyecto fue desarrollado con el objetivo de aprender y repasar mis conocimientos en Tailwind CSS.
-  
- ✨ Este proyecto es un challenge de [Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
- 
- [DEMO](https://qr-code-component-liard-three.vercel.app/)
+# Password Generator App ![Status badge](https://img.shields.io/badge/status-Completed-green)
 
-![Screenshot 2023-07-02 at 9 28 50 PM](https://github.com/stivenjimenez/QRCodeComponent/assets/58489695/61a63c79-aa50-41c1-a1dd-2ff03ffcd6e4)
+⚡️ Este proyecto es una implementación efectiva de mis habilidades en Tailwind CSS y Javascript Vanilla. Diseñado para generar contraseñas seguras y personalizables, esta aplicación es una solución rápida y fácil para sus necesidades de seguridad.
 
+✨ Este proyecto es un desafío completado de [Frontend Mentor](https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh), una plataforma que proporciona retos reales para mejorar las habilidades de desarrollo frontend.
 
+🔗 [Ver Demostración](https://password-generator-app-ruddy.vercel.app/)
 
-### Construido con
-Tailwind CSS
+![App Preview](https://github.com/stivenjimenez/passwordGeneratorAPP/assets/58489695/0a666afc-51b9-4280-90bc-3395d97b8480)
 
-## 🧾 License
-The MIT License (MIT)
+## 🛠️ Construido con
+- HTML5: para la estructura base de la aplicación.
+- Tailwind CSS: para estilizar la aplicación de manera personalizada y elegante.
+- Javascript Vanilla: para brindar la funcionalidad completa del generador de contraseñas.
+
+## 📜 Licencia
+Este proyecto está bajo la licencia MIT.
+
+## 🔄 Feedback
+Si tienes alguna sugerencia o comentario, no dudes en compartirlo. ¡Tu feedback es muy valioso para mí y para el crecimiento del proyecto!
+
+#DesarrolloWeb #FrontendMentor #HTML #TailwindCSS #Javascript
