@@ -9,8 +9,8 @@
 ![App Preview](https://github.com/stivenjimenez/QRCodeComponent/assets/58489695/61a63c79-aa50-41c1-a1dd-2ff03ffcd6e4)
 
 ## 🛠️ Construido con
+- HTML
 - Tailwind CSS: para un diseño personalizado y con estilo.
-- Otros componentes: [Incluir aquí cualquier otra tecnología o herramienta utilizada en el proyecto]
 
 ## 📜 Licencia
 Este proyecto está bajo la licencia MIT. 
